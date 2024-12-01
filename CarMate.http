@@ -1,0 +1,6 @@
+@CarMate_HostAddress = http://localhost:5027
+
+GET {{CarMate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
